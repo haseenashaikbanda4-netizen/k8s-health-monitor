@@ -1,0 +1,5 @@
+api-pod-1 ERROR connection failed
+api-pod-1 ERROR timeout
+worker-pod-2 INFO started
+api-pod-1 WARN high memory
+api-pod-1 ERROR crash loop
